@@ -40,12 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:sabagerami@umich.edu"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/GeorgeCushen
-- icon: linked-in
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/saba-gerami-a3aa2215a/
+ # - icon: twitter
+ # icon_pack: fab
+ # link: https://twitter.com/GeorgeCushen
  # - icon: cv
   # icon_pack: ai
   # link: static/img/cv.pdf
