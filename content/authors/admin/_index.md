@@ -26,7 +26,7 @@ education:
     institution: University of Michigan
     year: 2022 (expected, in progress)
   - course: M.S. in Mathematics
-    institution: Massachusetts Institute of Technology
+    institution: Cal Poly, San Luis Obispo
     year: 2015
   - course: B.S. in Mathematics
     institution: UCLA
@@ -49,9 +49,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
