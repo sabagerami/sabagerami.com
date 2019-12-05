@@ -44,7 +44,7 @@ social:
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
 - icon: linked-in
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/saba-gerami-a3aa2215a/
  # - icon: cv
   # icon_pack: ai
