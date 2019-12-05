@@ -24,7 +24,7 @@ education:
   courses:
   - course: Ph.D. in Mathematics Education
     institution: University of Michigan
-    year: 2022 (expected, in progress)
+    year: In progress
   - course: M.S. in Mathematics
     institution: Cal Poly, San Luis Obispo
     year: 2015
@@ -46,12 +46,10 @@ social:
 - icon: linked-in
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: cv
+   icon_pack: ai
+   link: static/img/cv.pdf
   
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- # - icon: cv
-  #  icon_pack: ai
-  #  link: img/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
