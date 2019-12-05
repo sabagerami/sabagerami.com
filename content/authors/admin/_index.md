@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
