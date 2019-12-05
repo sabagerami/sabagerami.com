@@ -7,6 +7,9 @@
 # Title of your site
 title = "Saba Gerami"
 
+# Picture
+avatar = "avatar.jpg"
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "sgerami.com/"
