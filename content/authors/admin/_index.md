@@ -45,10 +45,10 @@ social:
  # link: https://twitter.com/GeorgeCushen
 - icon: linked-in
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
- - icon: cv
-   icon_pack: ai
-   link: static/img/cv.pdf
+  link: https://www.linkedin.com/in/saba-gerami-a3aa2215a/
+ # - icon: cv
+  # icon_pack: ai
+  # link: static/img/cv.pdf
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
